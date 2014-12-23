@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">JSON Parsing</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_gsonparsing">GSONParsingActivity</string>
+    <string name="title_activity_jackson_parsing">JacksonParsingActivity</string>
+    <string name="title_activity_normal_jsonparsing">NormalJSONParsing</string>
+
+</resources>
